@@ -18,7 +18,7 @@ void toggleDebugMode(){
 
 int lunch(){
     Toolbox* toolbox = Toolbox::getInstance();
-    toolbox->window.create(sf::VideoMode(800, 600), "P4-Minesweeper, Mariam Sargsyan", sf::Style::Close);
+    toolbox->window.create(sf::VideoMode(800, 600), "P4-Minesweeper, Harutyun Sargsyan", sf::Style::Close);
     sf::Image icon;
     
     
